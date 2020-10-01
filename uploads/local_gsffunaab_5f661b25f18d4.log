@@ -1,0 +1,52 @@
+Start logging
+21-07-2013 12:03:40 : debug:core created
+21-07-2013 12:03:41 : debug:before get module handle
+21-07-2013 12:03:41 : debug:after get module handle
+21-07-2013 12:03:41 : debug:AdrmsXML destructor
+21-07-2013 12:03:41 : info:In ASPR::SetRegistrationKey key_path=Software\Alawar\7831
+21-07-2013 12:03:41 : debug:AdrmsXML destructor
+21-07-2013 12:03:41 : debug:Got MAC
+21-07-2013 12:03:41 : debug:Got MAC
+21-07-2013 12:03:41 : debug:Got MAC
+21-07-2013 12:03:41 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:41 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:42 : debug:In ASPR::SetRegistrationKey reg4 failed
+21-07-2013 12:03:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:03:42 : debug:AdrmsXML destructor
+21-07-2013 12:03:42 : debug:In ASPR::GetRegistrationInformation user='', is_registered=1,0
+21-07-2013 12:03:42 : info:
+21-07-2013 12:03:43 : info:StartWrapper() :"Wrapper" v.3.1.4.1425 (21-07-2013 10:03:43)
+21-07-2013 12:03:43 : debug:SetCurrentDirectory("C:\Program Files (x86)\Alawar\Farm Frenzy 4\")
+21-07-2013 12:03:43 : debug:set level
+21-07-2013 12:03:43 : info:SetNamedSecurityInfo result: 1
+21-07-2013 12:03:43 : info:SetNamedSecurityInfo result: 1
+21-07-2013 12:03:43 : info:SetNamedSecurityInfo result: 1
+Start logging
+21-07-2013 12:04:42 : debug:core created
+21-07-2013 12:04:42 : debug:before get module handle
+21-07-2013 12:04:42 : debug:after get module handle
+21-07-2013 12:04:42 : debug:AdrmsXML destructor
+21-07-2013 12:04:42 : info:In ASPR::SetRegistrationKey key_path=Software\Alawar\7831
+21-07-2013 12:04:42 : debug:AdrmsXML destructor
+21-07-2013 12:04:42 : debug:Got MAC
+21-07-2013 12:04:42 : debug:Got MAC
+21-07-2013 12:04:42 : debug:Got MAC
+21-07-2013 12:04:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:04:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:04:42 : ERROR:getDataFromRegistry failed. can't query data from key Software\Alawar\7831, variable Key3. err = 2
+21-07-2013 12:04:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:04:42 : ERROR:getDataFromRegistry failed. can't query data from key Software\Alawar\7831, variable Key. err = 2
+21-07-2013 12:04:42 : debug:In ASPR::SetRegistrationKey reg4 failed
+21-07-2013 12:04:42 : ERROR:getDataFromRegistry failed. can't query data from key Software\Alawar\7831, variable Key. err = 2
+21-07-2013 12:04:42 : debug:getDataFromRegistry failed. key Software\Alawar\7831. err: 2
+21-07-2013 12:04:42 : debug:AdrmsXML destructor
+21-07-2013 12:04:42 : debug:In ASPR::GetRegistrationInformation user='', is_registered=1,0
+21-07-2013 12:04:42 : info:
+21-07-2013 12:04:42 : info:StartWrapper() :"Wrapper" v.3.1.4.1425 (21-07-2013 10:04:42)
+21-07-2013 12:04:42 : debug:SetCurrentDirectory("C:\Program Files (x86)\Alawar\Farm Frenzy 4\")
+21-07-2013 12:04:42 : debug:set level
+RND_LABEL epmturjvhopwxdlxucxpswpwnsegihjyvfihglpijajlahiadfkalotlxxikjbnlygsvwdneuejtfmrhbwydhdwxlwcicgeyumuh
